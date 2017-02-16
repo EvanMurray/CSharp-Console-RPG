@@ -1,0 +1,5 @@
+C:\Users\Evan\Desktop\myRpg\obj\x86\Debug\myRpg.csprojResolveAssemblyReference.cache
+C:\Users\Evan\Desktop\myRpg\bin\Debug\ConsoleApplication.exe
+C:\Users\Evan\Desktop\myRpg\bin\Debug\ConsoleApplication.pdb
+C:\Users\Evan\Desktop\myRpg\obj\x86\Debug\ConsoleApplication.exe
+C:\Users\Evan\Desktop\myRpg\obj\x86\Debug\ConsoleApplication.pdb
